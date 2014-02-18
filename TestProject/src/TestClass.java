@@ -14,6 +14,8 @@ public class TestClass {
 		//ovo je komentar dodan na kanti
 	}
 	
+	//idemo dalje
+	
 	public void metodaDodanaNaKanti(){
 		
 	}
