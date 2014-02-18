@@ -13,4 +13,8 @@ public class TestClass {
 	public void metodaDodanaNaLaptopu(){
 		//ovo je komentar dodan na kanti
 	}
+	
+	public void metodaDodanaNaKanti(){
+		
+	}
 }
