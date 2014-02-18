@@ -7,6 +7,9 @@ public class TestClass {
 		System.out.println("Hello world!");
 	}
 	
+	/**
+	 * Komentar na metodi.
+	 * */
 	public void metodaDodanaNaLaptopu(){
 		//ovo je komentar dodan na kanti
 	}
