@@ -16,6 +16,8 @@ public class TestClass {
 	
 	//idemo dalje
 	
+	// i dalje i dalje
+	
 	public void metodaDodanaNaKanti(){
 		
 	}
