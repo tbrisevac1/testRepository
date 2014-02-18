@@ -21,4 +21,8 @@ public class TestClass {
 	public void metodaDodanaNaKanti(){
 		
 	}
+	
+	public void jaRadimIDalje(){
+		
+	}
 }
