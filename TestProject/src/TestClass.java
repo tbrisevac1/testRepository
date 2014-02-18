@@ -22,7 +22,12 @@ public class TestClass {
 		
 	}
 	
-	public void jaRadimIDalje(){
+
+	public void jaRadimIDalje(){}
 		
+
+	public void ovoJeBugFix(){
+		System.out.println("Ovo je gotov bugxix!");
+
 	}
 }
