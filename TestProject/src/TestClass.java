@@ -34,4 +34,10 @@ public class TestClass {
 	public void zadnjaMetoda(){
 		System.out.println("Ovo je zadnja metoda za danas!");
 	}
+	
+	public void zadnjaMetodaKanta(){
+		for(int i=0; i<10;i++){
+			System.out.println(i);
+		}
+	}
 }
