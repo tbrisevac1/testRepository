@@ -30,4 +30,8 @@ public class TestClass {
 		System.out.println("Ovo je gotov bugxix!");
 
 	}
+	
+	public void zadnjaMetoda(){
+		System.out.println("Ovo je zadnja metoda za danas!");
+	}
 }
