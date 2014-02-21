@@ -41,8 +41,9 @@ public class TestClass {
 		}
 	}
 	
-	public void metodaNaKojojRadim(int prvi, int drugi){
+	public void metodaNaKojojRadim(int prvi, int drugi, int prviIPol){
 		System.out.println(prvi);
+		System.out.println(prviIPol);
 		System.out.println(drugi);
 	}
 }
