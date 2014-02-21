@@ -70,4 +70,8 @@ public class TestClass {
 		System.out.println(b);
 		System.out.println("Laptop");
 	}
+	
+	public void zadnjaKanta(){
+		System.out.println("Zadnja kanta");
+	}
 }
