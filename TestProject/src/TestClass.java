@@ -74,6 +74,7 @@ public class TestClass {
 
 	public void zadnjaKanta(){
 		System.out.println("Zadnja kanta");
+	}
 
 	public void zadnjaLaptop(){
 
