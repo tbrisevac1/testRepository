@@ -28,6 +28,7 @@ public class TestClass {
 			System.out.println(i);
 			System.out.println(i + i);
 		}
+	}
 
 	public void novaMetodaNaKanti(){
 		System.out.println("Nova metoda na kanti");
