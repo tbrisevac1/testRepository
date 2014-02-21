@@ -73,7 +73,7 @@ public class TestClass {
 	
 
 	public void zadnjaKanta(){
-		System.out.println("Zadnja kanta");
+		System.out.println("Zadnja kanta asdf");
 	}
 
 	public void zadnjaLaptop(){
