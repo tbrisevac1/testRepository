@@ -22,11 +22,16 @@ public class TestClass {
 		
 	}
 	
+
 	public void novaMetoda(){
 		for(int i = 0; i<10; i++){
 			System.out.println(i);
 			System.out.println(i + i);
 		}
+
+	public void novaMetodaNaKanti(){
+		System.out.println("Nova metoda na kanti");
+
 	}
 	
 
@@ -48,11 +53,12 @@ public class TestClass {
 		}
 	}
 	
-	public void metodaNaKojojRadim(int prvi, int drugi, int prviIPol, int treci){
+	public void metodaNaKojojRadim(int prvi, int drugi, int prviIPol, int treci, int cetvrti){
 		System.out.println(prvi);
 		System.out.println(prviIPol);
 		System.out.println(drugi);
 		System.out.println(treci);
+		System.out.println("Cetvrti" + cetvrti);
 	}
 	
 	public void kanta(){
