@@ -62,8 +62,9 @@ public class TestClass {
 		System.out.println("Cetvrti" + cetvrti);
 	}
 	
-	public void kanta(){
+	public void kanta(String b){
 		System.out.println("Iz kante");
+		System.out.println(b);
 		System.out.println("Laptop");
 	}
 }
