@@ -47,4 +47,8 @@ public class TestClass {
 		System.out.println(drugi);
 		System.out.println(treci);
 	}
+	
+	public void kanta(){
+		System.out.println("Iz kante");
+	}
 }
