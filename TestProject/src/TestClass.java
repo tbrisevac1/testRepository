@@ -22,6 +22,13 @@ public class TestClass {
 		
 	}
 	
+	public void novaMetoda(){
+		for(int i = 0; i<10; i++){
+			System.out.println(i);
+			System.out.println(i + i);
+		}
+	}
+	
 
 	public void jaRadimIDalje(){}
 		
@@ -50,5 +57,6 @@ public class TestClass {
 	
 	public void kanta(){
 		System.out.println("Iz kante");
+		System.out.println("Laptop");
 	}
 }
