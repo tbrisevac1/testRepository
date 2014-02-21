@@ -40,4 +40,9 @@ public class TestClass {
 			System.out.println(i);
 		}
 	}
+	
+	public void metodaNaKojojRadim(int prvi, int drugi){
+		System.out.println(prvi);
+		System.out.println(drugi);
+	}
 }
