@@ -82,4 +82,8 @@ public class TestClass {
 
 
 	}
+	
+	public void zadnjaKantaAlFakat(){
+		System.out.println("Zadnja kanta al fakat");
+	}
 }
